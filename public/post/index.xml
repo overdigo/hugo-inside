@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Insidemotors Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 12 Jun 2018 13:25:52 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jun 2018 13:56:04 -0400</lastBuildDate>
     
 	<atom:link href="http://imstatic.mooo.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://imstatic.mooo.com/post/my-first-post/</link>
+      <pubDate>Tue, 12 Jun 2018 13:56:04 -0400</pubDate>
+      
+      <guid>http://imstatic.mooo.com/post/my-first-post/</guid>
+      <description>fist post usando hugo</description>
+    </item>
     
     <item>
       <title>About</title>
