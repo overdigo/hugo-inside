@@ -1,0 +1,4 @@
+baseURL = "http://imstatic.mooo.com/"
+languageCode = "pt-br"
+title = "Insidemotors Blog"
+theme = "hugo-future-imperfect"
